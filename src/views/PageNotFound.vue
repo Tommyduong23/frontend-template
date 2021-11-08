@@ -1,6 +1,5 @@
 <template lang="pug">
-  .nav-bar
-
+  h1 Page Not Found
 </template>
 
 <script>
